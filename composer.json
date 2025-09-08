@@ -1,0 +1,17 @@
+{
+    "name": "rayaalifahsetia/belajar-php-composer-hello",
+    "description": "PHP Composer Hello",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Rayaalifahsetia\\BelajarPhpComposerHello\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Raya Alifah",
+            "email": "astrayasetia1967@gmail.com"
+        }
+    ],
+    "require": {}
+}
